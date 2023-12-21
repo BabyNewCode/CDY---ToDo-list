@@ -19,13 +19,9 @@
     </style>
 </head>
 
-<?php $content = ob_get_clean(); ?>
-<?php include_once __DIR__.'/../View/header.php'; ?>
+    
 
 <body>
-    <header>
-        <?php include_once 'header.php'; ?>
-    </header>
     
     <div class="container mt-5">
         <h1>ToClue ToDo ToYou</h1>
