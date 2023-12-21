@@ -1,5 +1,3 @@
-<?php include_once 'header.php'; ?>
-
 <h1>Liste des Tâches</h1>
 
 <?php if (!empty($taches)): ?>
