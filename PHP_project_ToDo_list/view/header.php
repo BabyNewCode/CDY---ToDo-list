@@ -19,13 +19,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="taches.php">Tâches</a>
+          <a class="nav-link active" aria-current="page" href="index.php?page=taches">Tâches</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="add_task.php">New</a>
+          <a class="nav-link" href="index.php?page=add_task">New</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="template.php">Accueil</a>
+          <a class="nav-link" href="index.php?page=accueil">Accueil</a>
         </li>
       </ul>
 
